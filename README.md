@@ -125,9 +125,9 @@ India's GST reconciliation is fundamentally a **graph traversal problem** — no
 └───────────────────────┬─────────────────────────────┘
                         │ HTTP / Server Functions
 ┌───────────────────────▼─────────────────────────────┐
-│           EDGE RUNTIME (Cloudflare Workers)         │
-│            TanStack Start Server Functions          │
-│   ReconciliationService │ GraphService │ RiskService│
+│         EDGE RUNTIME (Cloudflare Workers)           │
+│          TanStack Start Server Functions            │
+│  ReconciliationService │ GraphService │ RiskService │
 └───────────────────────┬─────────────────────────────┘
                         │
         ┌───────────────┼───────────────┐
@@ -276,13 +276,12 @@ class VendorRiskModel {
 
 ## 📸 Screenshots
 
-| Dashboard | Knowledge Graph |
-|-----------|----------------|
-| ![Dashboard](screenshots\dashboard.png) | ![Graph](screenshots/graph.png) |
 
-| Reconciliation Engine | Vendor Risk |
-|----------------------|-------------|
-| ![Reconciliation](screenshots/reconciliation.png) | ![Vendor Risk](screenshots/vendor-risk.png) |
+| ![Dashboard](<img width="1895" height="900" alt="dashboard" src="https://github.com/user-attachments/assets/391a8554-db42-4214-aa14-34d3d9099681" />) |
+| ![Graph](<img width="1919" height="897" alt="graph" src="https://github.com/user-attachments/assets/5d29e1a8-0a47-42f1-a3e5-ddd7e5834143" />) |
+
+| ![Reconciliation](<img width="1891" height="904" alt="reconciliation" src="https://github.com/user-attachments/assets/f28e90a5-d6a6-48f9-910f-308b83e0e4eb" />) |
+| ![Vendor Risk](<img width="1893" height="907" alt="vendor-risk" src="https://github.com/user-attachments/assets/42dad0f1-cabb-4832-8ed0-7bada9bc09af" />) |
 
 ---
 
