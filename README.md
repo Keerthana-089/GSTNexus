@@ -11,8 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 **Detect circular trades. Validate ITC. Reconcile GST returns using Knowledge Graphs.**
-
-[Live Demo](#) · [Report Bug](issues) · [Request Feature](issues)
+ 
 
 </div>
 
@@ -259,23 +258,22 @@ class VendorRiskModel {
 ## 📸 Screenshots
 
 
-| ![Dashboard](public/dashboard.png) |
-| ![Graph](public/graph.png) |
-
-| ![Reconciliation](public/reconciliation.png) |
-| ![Vendor Risk](public/vendor-risk.png) |
+![Dashboard](public/dashboard.png)
+![Graph](public/graph.png)
+![Reconciliation](public/reconciliation.png)
+![Vendor Risk](public/vendor-risk.png)
 
 ---
 
 ## 🗺️ Roadmap
 
 - [x] v1 — Core slice: Dashboard, Graph Explorer, Reconciliation, Vendor Risk, AI Assistant
-- [ ] v2 — GSTN Sandbox API integration for live return data
-- [ ] v2 — Multi-GSTIN management for CA firms
-- [ ] v2 — Predictive ML risk model using historical graph patterns
-- [ ] v3 — e-Way Bill integration
-- [ ] v3 — Mobile app (React Native)
-- [ ] v3 — WhatsApp GST alert notifications
+- [x] v2 — GSTN Sandbox API integration for live return data
+- [x] v2 — Multi-GSTIN management for CA firms
+- [x] v2 — Predictive ML risk model using historical graph patterns
+- [x] v3 — e-Way Bill integration
+- [x] v3 — Mobile app (React Native)
+- [x] v3 — WhatsApp GST alert notifications
 
 ---
 
