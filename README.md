@@ -256,10 +256,16 @@ class VendorRiskModel {
 
 ## 📸 Screenshots
 
-
+Dashboard
 ![Dashboard](public/dashboard.png)
+
+Graph Explorer
 ![Graph](public/graph.png)
+
+Reconciliation
 ![Reconciliation](public/reconciliation.png)
+
+Vendor Risk
 ![Vendor Risk](public/vendor-risk.png)
 
 ---
