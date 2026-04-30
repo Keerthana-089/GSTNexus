@@ -18,24 +18,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [About the Project](#about-the-project)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Pages & Modules](#pages--modules)
-- [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
-- [Database Schema](#database-schema)
-- [OOP Design](#oop-design)
-- [Screenshots](#screenshots)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## 🧩 About the Project
 
 **GSTNexus** is a full-stack FinTech / GovTech SaaS application built for Indian businesses and CA firms to intelligently reconcile GST returns using Knowledge Graph technology.
@@ -277,11 +259,11 @@ class VendorRiskModel {
 ## 📸 Screenshots
 
 
-| ![Dashboard](dashboard.png) |
-| ![Graph](graph.png) |
+| ![Dashboard](public/dashboard.png) |
+| ![Graph](public/graph.png) |
 
-| ![Reconciliation](reconciliation.png) |
-| ![Vendor Risk](vendor-risk.png) |
+| ![Reconciliation](public/reconciliation.png) |
+| ![Vendor Risk](public/vendor-risk.png) |
 
 ---
 
