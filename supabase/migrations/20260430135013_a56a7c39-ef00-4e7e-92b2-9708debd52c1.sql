@@ -1,0 +1,1 @@
+CREATE POLICY "Auth delete invoices" ON public.invoices FOR DELETE TO authenticated USING (true);
