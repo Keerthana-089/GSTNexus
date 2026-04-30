@@ -1,17 +1,16 @@
-# 🧠 GSTNexus — Intelligent GST Reconciliation Platform
+# 📑 GSTNexus — Intelligent GST Reconciliation Platform
 
 <div align="center">
 
 ![GSTNexus Banner](https://img.shields.io/badge/GSTNexus-Knowledge%20Graph%20GST%20Platform-06B6D4?style=for-the-badge&logo=graph&logoColor=white)
 
 [![Built with React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat-square&logo=react)](https://react.dev)
-[![TanStack Start](https://img.shields.io/badge/TanStack-Start-FF4154?style=flat-square)](https://tanstack.com/start)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=flat-square&logo=cloudflare)](https://workers.cloudflare.com)
 [![Supabase](https://img.shields.io/badge/Supabase-Postgres-3ECF8E?style=flat-square&logo=supabase)](https://supabase.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 **Detect circular trades. Validate ITC. Reconcile GST returns using Knowledge Graphs.**
- 
+
+🚀 **Live Demo:** https://gst-nexus.vercel.app
 
 </div>
 
