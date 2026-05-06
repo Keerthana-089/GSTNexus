@@ -286,7 +286,7 @@ Vendor Risk
 
 <div align="center">
 
-Built for the Indian GST ecosystem
+Built for the Indian GST eco
 
 **[⬆ Back to Top](#-gstnexus--intelligent-gst-reconciliation-platform)**
 
