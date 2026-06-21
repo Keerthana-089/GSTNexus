@@ -10,7 +10,7 @@
 
 **Detect circular trades. Validate ITC. Reconcile GST returns using Knowledge Graphs.**
 
-🚀 **Live Demo:** https://gst-nexus.vercel.app
+🚀 **Live Demo:** https://gstai.lovable.app
 
 </div>
 
